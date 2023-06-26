@@ -1,0 +1,89 @@
+// {records: [
+//         {metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: e51f6fd6-f20b-4fd9-a9a2-7cfebc7be65d, lastModifiedTime: {epochSecond: 1683234146, nano: 494000000
+//                 }
+//             }, time: {epochSecond: 1683141200, nano: 870000000
+//             }, weight: {grams: 61000.0, kilograms: 61.0, micrograms: 61000000000.0, milligrams: 61000000.0, ounces: 2151.7119161100436, pounds: 134.48197993277532
+//             }, zoneOffset: null
+//         },
+//         {metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: ab1bcd24-375d-44b5-bf43-a3374c9caace, lastModifiedTime: {epochSecond: 1683234146, nano: 796000000
+//                 }
+//             }, time: {epochSecond: 1683233760, nano: 0
+//             }, weight: {grams: 60327.735900878906, kilograms: 60.327735900878906, micrograms: 60327735900.87891, milligrams: 60327735.900878906, ounces: 2127.99849524362, pounds: 132.99989129199616
+//             }
+//         }
+//     ]
+// }
+// {records: [
+//         {metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: e51f6fd6-f20b-4fd9-a9a2-7cfebc7be65d, lastModifiedTime: {epochSecond: 1683234146, nano: 494000000
+//                 }
+//             }, time: {epochSecond: 1683141200, nano: 870000000
+//             }, weight: {grams: 61000.0, kilograms: 61.0, micrograms: 61000000000.0, milligrams: 61000000.0, ounces: 2151.7119161100436, pounds: 134.48197993277532
+//             }, zoneOffset: null
+//         },
+//         {metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: ab1bcd24-375d-44b5-bf43-a3374c9caace, lastModifiedTime: {epochSecond: 1683234146, nano: 796000000
+//                 }
+//             }, time: {epochSecond: 1683233760, nano: 0
+//             }, weight: {grams: 60327.735900878906, kilograms: 60.327735900878906, micrograms: 60327735900.87891, milligrams: 60327735.900878906, ounces: 2127.99849524362, pounds: 132.99989129199616
+//             }, zoneOffset: null
+// {records: [
+//         {endTime: {epochSecond: 1683268877, nano: 265000000
+//             }, endZoneOffset: null, metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: 08c73f63-0947-43fb-bac6-2b9e83c8ad8e, lastModifiedTime: {epochSecond: 1683268878, nano: 574000000
+//                 }
+//             }, samples: [
+//                 {beatsPerMinute: 76, time: {epochSecond: 1683268877, nano: 264000000
+//                     }
+//                 }
+//             ], startTime: {epochSecond: 1683268877, nano: 264000000
+//             }, startZoneOffset: null
+//         }
+//     ], pageToken:
+// }
+// {records: [
+//         {endTime: {epochSecond: 1680812889, nano: 799000000
+//             }, endZoneOffset: null, energy: {calories: 12263.623237609863, joules: 51310.999634246284, kilocalories: 12.263623237609863, kilojoules: 51.31099963424628
+//             }, metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: a570e032-94c5-4ff6-86c7-a503b07b5456, lastModifiedTime: {epochSecond: 1683234127, nano: 548000000
+//                 }
+//             }, startTime: {epochSecond: 1680812730, nano: 645000000
+//             }, startZoneOffset: null
+//         },
+//         {endTime: {epochSecond: 1680814243, nano: 809000000
+//             }, endZoneOffset: null, energy: {calories: 104333.99200439453, joules: 436533.4226151844, kilocalories: 104.33399200439453, kilojoules: 436.53342261518435
+//             }, metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+//                 }, device: {manufacturer: null, model: null, type: 0
+//                 }, id: 9934434d-bc0b-4326-81d6-ac96d08d538b, lastModifiedTime: {epochSecond:
+{records: [
+        {endTime: {epochSecond: 1683268877, nano: 265000000
+            }, endZoneOffset: null, metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+                }, device: {manufacturer: null, model: null, type: 0
+                }, id: 08c73f63-0947-43fb-bac6-2b9e83c8ad8e, lastModifiedTime: {epochSecond: 1683268878, nano: 574000000
+                }
+            }, samples: [
+                {beatsPerMinute: 76, time: {epochSecond: 1683268877, nano: 264000000
+                    }
+                }
+            ], startTime: {epochSecond: 1683268877, nano: 264000000
+            }, startZoneOffset: null
+        },
+        {endTime: {epochSecond: 1683475943, nano: 221000000
+            }, endZoneOffset: null, metadata: {clientRecordId: null, clientRecordVersion: 0, dataOrigin: {packageName: com.google.android.apps.fitness
+                }, device: {manufacturer: null, model: null, type: 0
+                }, id: d6e8dbc1-0853-45e3-8c21-90b916fb163d, lastModifiedTime: {epochSecond: 1683475946, nano: 734000000
+                }
+            }, samples: [
+                {beatsPerMinute: 107, time: {epochSecond: 1683475943, nano: 220000000
+                    }
+                }
+            ], startTime: {epochSecond: 1683475943, nano: 220000000
+            }, startZoneOffs

@@ -1,0 +1,15 @@
+<resources>
+  <array name="health_permissions">
+    <item>androidx.health.permission.HeartRate.READ</item>
+<item>androidx.health.permission.BloodPressure.READ</item>    
+<item>androidx.health.permission.Steps.READ</item>
+    <item>androidx.health.permission.Weight.READ</item>
+    <item>androidx.health.permission.Height.READ</item>
+    <item>androidx.health.permission.TotalCaloriesBurned.READ</item>
+    <item>androidx.health.permission.ActiveCaloriesBurned.READ</item>
+    <item>androidx.health.permission.RespiratoryRate.READ</item>
+     <item>androidx.health.permission.OxygenSaturation.READ</item>
+
+
+  </array>
+</resources>

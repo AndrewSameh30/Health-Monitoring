@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925095354689",
+    "firebase_url": "https://health-monitoring-afb77-default-rtdb.firebaseio.com",
+    "project_id": "health-monitoring-afb77",
+    "storage_bucket": "health-monitoring-afb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925095354689:android:58cd16d467d818c1e681c0",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925095354689-ruhh4ntc1rebuv0iv12d7q5dgekphgq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ly7TyuqFgp9nRIMri385equeC7WN4Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925095354689-ruhh4ntc1rebuv0iv12d7q5dgekphgq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925095354689-9u70vk62kuo8cspndtr0ju7lr8aiffpt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
